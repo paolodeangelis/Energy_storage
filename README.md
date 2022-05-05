@@ -16,11 +16,11 @@ Energy Storage course: practical exercise on the simulation of lithium ion batte
 
 ### [1. Hands-on Python 3](1-Hands-on_Python3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Energy_storage/blob/main/1-Hands-on_Python3.ipynb)
 
-Introduzione/ripasso di Python 3 e dei *notebooks* `jupyter`.
+Introduction/review of Python 3 and `jupyter` *notebooks*.
 
 ### [2. Hands-on LIB modelling](2-Hands-on_LIB_modelling.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Energy_storage/blob/main/2-Hands-on_LIB_modelling.ipynb)
 
-Esercitazione su Machine Learning e Sequential Learning in `jupyter`.
+Exercise on lithium-ion battery modeling in `jupyter` using PyBaMM.
 
 <hr width="100%">
 <p align="right">
