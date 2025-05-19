@@ -1,6 +1,20 @@
+default_language_version:
+    python: python3.11
+
 exclude: '.git|.tox|.trash|lammps_wrapper'
 default_stages: [pre-commit]
 fail_fast: true
+
+ci:
+  autofix_commit_msg: |
+        [pre-commit.ci] auto fixes from pre-commit.com hooks
+
+        for more information, see https://pre-commit.ci
+  autofix_prs: true
+  autoupdate_branch: ''
+  autoupdate_commit_msg: '[pre-commit.ci] pre-commit autoupdate'
+  autoupdate_schedule: quarterly
+  skip: []
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
